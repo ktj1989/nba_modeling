@@ -102,3 +102,5 @@ def get_historical_nba_data(dates, attributes):
 #date_list = [datetime.datetime.strftime(end - datetime.timedelta(days=x), '%Y-%m-%d') for x in range((end - start).days)]
 
 #samp = get_historical_nba_data(date_list, {'true-shooting-percentage': 'desc'})
+
+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
